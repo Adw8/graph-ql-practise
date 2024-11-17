@@ -9,4 +9,4 @@ Reference: <https://www.youtube.com/watch?v=xMCnDesBggM>
   - Mutation operations for adding, updating, and deleting games
   - Built with Apollo Server for GraphQL handling
 
-The server uses an in-memory database (_db.js) for data storage and implements resolvers for handling all GraphQL operations and relationships.
+The server uses an in-memory database (`_db.js`) for data storage and implements resolvers for handling all GraphQL operations and relationships.
